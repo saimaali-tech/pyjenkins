@@ -9,11 +9,7 @@ pipeline {
             }
         }
 
-    //   stage('Run Streamlit App') {
-    //         steps {
-    //             sh '. venv/bin/activate && nohup streamlit run ${APP_NAME} &'
-    //         }
-    //     }
+  
         
     }
 }
